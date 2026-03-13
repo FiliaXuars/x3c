@@ -1,4 +1,10 @@
 # x3c
+
+xyzw
+xy: address to place code at ignoring current bank
+z: opcode
+w: operand
+
 ```./specs```
 ```4b opcode 4b address
 16 instruction cap
