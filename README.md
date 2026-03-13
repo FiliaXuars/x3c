@@ -1,4 +1,5 @@
 # x3c
+```./specs```
 ```4b opcode 4b address
 16 instruction cap
 realistic default memory 2k
