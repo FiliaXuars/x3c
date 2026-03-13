@@ -1,6 +1,6 @@
 # x3c
 <p>
-    xyzw<br>
+    ```xyzw```<br>
     xy: address to place code at ignoring current bank<br>
     z: opcode<br>
     w: operand
