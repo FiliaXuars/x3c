@@ -1,12 +1,12 @@
 # x3c
 <p>
-    ```xyzw```<br>
-    xy: address to place code at ignoring current bank<br>
-    z: opcode<br>
-    w: operand
+    <code>xyzw</code><br>
+    <code>xy</code>: address to place code at ignoring current bank<br>
+    <code>z</code>: opcode<br>
+    <code>w</code>: operand
 </p>
 
-```./specs```
+./specs
 ```4b opcode 4b address
 16 instruction cap
 realistic default memory 2k
