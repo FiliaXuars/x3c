@@ -1,8 +1,8 @@
 # x3c
 <p>
-    xyzw
-    xy: address to place code at ignoring current bank
-    z: opcode
+    xyzw<br>
+    xy: address to place code at ignoring current bank<br>
+    z: opcode<br>
     w: operand
 </p>
 
